@@ -2,7 +2,7 @@ Testing pushing files from local repository to remote repository
 Teasting done
 
 Added another line
-=======
+
 Changing done in remote
 >>>>>>> 643dbd1dc9075ab992400a394b6da6a9ae8bb2df
 
