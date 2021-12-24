@@ -5,3 +5,5 @@ Added another line
 =======
 Changing done in remote
 >>>>>>> 643dbd1dc9075ab992400a394b6da6a9ae8bb2df
+
+Added one extra line in remote
